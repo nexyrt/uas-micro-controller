@@ -34,5 +34,5 @@ Untuk proyek ini, Anda memerlukan bagian-bagian berikut ini:
    - Breadboard
 5. **Rangkaian** <br>
 Untuk proyek ini, Anda perlu menyambungkan *PIR Motion Sensor* ke *ESP32 CAM Board*. Ikuti gambar rangkaian berikut ini.
-![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32 CAM-PIR-Motion-Sensor-Wiring-Diagram.png?resize=1024%2C649&quality=100&strip=all&ssl=1)
+![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32-PIR-Motion-Sensor-Wiring-Diagram.png?resize=1024%2C649&quality=100&strip=all&ssl=1)
 6. 
