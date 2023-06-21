@@ -3,7 +3,7 @@ Repositori GitHub ini berisi tugas ujian akhir untuk mata kuliah **Micro Control
 | Nama              |  NIM          |
 | ----------------- | ------------- |
 | Rizky Hamdani     | 2009106089    |
-| Indro Dwi Saputro | 2009106089    |
+| Indro Dwi Saputro | 2009106099    |
 
 ## Rangkaian dan Penjelasan
 
@@ -26,12 +26,13 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
       - Cari "ArduinoJson".
       - Instal *library*.
 Kami menggunakan pustaka ArduinoJson versi 6.5.12.
-4. **Siapkan Komponen <br> Untuk proyek ini, Anda memerlukan bagian-bagian berikut ini:**
+4. **Siapkan Komponen** <br>
+Untuk proyek ini, Anda memerlukan bagian-bagian berikut ini:
    - ESP32 Board
    - PIR motion sensor (HC-SR501)
    - Jumper wires
    - Breadboard
 5. **Rangkaian** <br>
-   Untuk proyek ini, Anda perlu menyambungkan *PIR Motion Sensor* ke *ESP32 Board*. Ikuti gambar rangkaian berikut ini.
+Untuk proyek ini, Anda perlu menyambungkan *PIR Motion Sensor* ke *ESP32 Board*. Ikuti gambar rangkaian berikut ini.
 ![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32-PIR-Motion-Sensor-Wiring-Diagram.png?resize=1024%2C649&quality=100&strip=all&ssl=1)
-7.  
+6. 
