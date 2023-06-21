@@ -8,7 +8,7 @@ Repositori GitHub ini berisi tugas ujian akhir untuk mata kuliah **Micro Control
 ## Rangkaian dan Penjelasan
 
 ### Overview
-![alt text]([http://url/to/img.png](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32-PIR-Motion-Sensor-Send-Message-Notificatio-Telegram.png?w=890&quality=100&strip=all&ssl=1))
+![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32-PIR-Motion-Sensor-Send-Message-Notificatio-Telegram.png?w=890&quality=100&strip=all&ssl=1)
 Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja : 
 - Kami akan membuat bot Telegram untuk ESP32 bekerja.
 - ESP32 terhubung ke *PIR Motion Sensor*.
