@@ -26,8 +26,7 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
       - Cari "ArduinoJson".
       - Instal *library*.
 Kami menggunakan pustaka ArduinoJson versi 6.5.12.
-4. Siapkan Komponen
-   Untuk proyek ini, Anda memerlukan bagian-bagian berikut ini:
+4. Siapkan Komponen\nUntuk proyek ini, Anda memerlukan bagian-bagian berikut ini:
    - ESP32 Board
    - PIR motion sensor (HC-SR501)
    - Jumper wires
