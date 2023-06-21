@@ -20,16 +20,18 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
 1. Membuat telegram Bot
 2. Dapatkan ID Pengguna Telegram Anda
 3. Mempersiapkan Arduino IDE
-   - Diperlukan sebuah *Universal Telegram Bot Library*, untuk berinteraksi dengan bot Telegram. Kita akan menggunakan library dari <a href="https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot" target="_blank">Brian Lough</a> yang menyediakan antarmuka yang mudah untuk API Bot Telegram.
-   - Anda juga harus menginstal *<a href="https://github.com/bblanchon/ArduinoJson" target="_blank">Arduino Json</a> library*. Ikuti langkah selanjutnya untuk menginstal *library*.
+   - Diperlukan sebuah *Universal " target="_blank">Brian Lough</a> yang menyediakan antarmuka yang mudah untuk API Bot Telegram.
+   - Anda juga harus menginstal *<a href="Telegram Bot Library*, untuk berinteraksi dengan bot Telegram. Kita akan menggunakan library dari <a href="https://github.com/witnessmenow/Universal-Arduino-Telegram-Bothttps://github.com/bblanchon/ArduinoJson" target="_blank">Arduino Json</a> library*. Ikuti langkah selanjutnya untuk menginstal *library*.
       - Pergi ke Skech > Include Library > Manage Libraries.
       - Cari "ArduinoJson".
       - Instal *library*.
 Kami menggunakan pustaka ArduinoJson versi 6.5.12.
-5. Siapkan Komponen
+4. Siapkan Komponen
 Untuk proyek ini, Anda memerlukan bagian-bagian berikut ini:
    - ESP32 Board
    - PIR motion sensor (HC-SR501)
    - Jumper wires
    - Breadboard
-6. 
+5. Rangkaian
+
+6.  
