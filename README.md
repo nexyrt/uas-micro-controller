@@ -37,3 +37,9 @@ Untuk proyek ini, Anda perlu menyambungkan *PIR Motion Sensor* ke *ESP32 CAM Boa
 ![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32-PIR-Motion-Sensor-Wiring-Diagram.png?resize=1024%2C649&quality=100&strip=all&ssl=1)
 6. **Deteksi Gerakan Telegram dengan Pemberitahuan - ESP32 Sketch** <br>
 *Code* yang digunakan untuk proyek ini telah diupload dengan nama file *<strong>espcam.ino</strong>*. *Code* itu menggunakan bot Telegram Anda untuk mengirim pesan peringatan ke akun telegram Anda setiap kali ada gerakan yang terdeteksi. Agar *sketch* yang digunakan berhasil, anda harus memasukkan kredensial jaringan (SSID dan kata sandi), token Telegram Bot, dan ID pengguna Telegram Anda.
+7. *<strong>Demonstration</strong>* <br>
+Upload *sketch/code* ke ESP32 board yang sudah disiapkan dengan rangkaiannya. Setelah mengunggah kode, tekan tombol EN/RST pada board ESP32 sehingga mulai menjalankan kode. <br>
+Saat bot pertama kali digunakan ia akan mengirim pesan ke akun Telegram Anda: "*Bot started*". Kemudian, untuk mulai menggunakan bot ketikkan */start* untuk mengetahui jenis command apa saja yang bisa diguunakan pada bot. Contoh sederharna adalah mengambil gambar dengan menggunakan command */photo* dan ini yang akan terjadi. <br>
+![alt text](https://imgur.com/sCvg4W3)
+<br>Ketikkan */motion_on* lalu gerakkan tangan Anda di depan *PIR Motion Sensor* dan ini yang akan terjadi. <br>
+![alt text](https://imgur.com/heuZgQ5) <br>
