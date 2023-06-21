@@ -16,3 +16,10 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
 - Ketika sensor mendeteksi gerakan, ESP32 mengirim pesan peringatan ke akun telegram.
 - Kami akan diberitahu di akun telegram yang sudah terhubung ke bot setiap kali ada gerakan yang terdeteksi.
 
+### Steps / Langkah-langkah
+1. Membuat telegram Bot
+2. Dapatkan ID Pengguna Telegram Anda
+3. Mempersiapkan Arduino IDE
+   - Diperlukan sebuah *Universal Telegram Bot Library*, untuk berinteraksi dengan bot Telegram. Kita akan menggunakan library dari <a href="https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot" target="_blank">Brian Lough</a> yang menyediakan antarmuka yang mudah untuk API Bot Telegram.
+4. 
+5. 
