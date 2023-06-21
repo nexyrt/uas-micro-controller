@@ -21,5 +21,10 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
 2. Dapatkan ID Pengguna Telegram Anda
 3. Mempersiapkan Arduino IDE
    - Diperlukan sebuah *Universal Telegram Bot Library*, untuk berinteraksi dengan bot Telegram. Kita akan menggunakan library dari <a href="https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot" target="_blank">Brian Lough</a> yang menyediakan antarmuka yang mudah untuk API Bot Telegram.
-4. 
+   - Anda juga harus menginstal *<a href="https://github.com/bblanchon/ArduinoJson" target="_blank">Arduino Json</a> library*. Ikuti langkah selanjutnya untuk menginstal *library*.
+1. Pergi ke Skech > Include Library > Manage Libraries.
+2. Cari "ArduinoJson".
+3. Instal *library*.
+Kami menggunakan pustaka ArduinoJson versi 6.5.12.
 5. 
+6. 
