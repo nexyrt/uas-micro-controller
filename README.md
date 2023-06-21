@@ -33,6 +33,6 @@ Untuk proyek ini, Anda memerlukan bagian-bagian berikut ini:
    - Jumper wires
    - Breadboard
 5. Rangkaian
-Untuk proyek ini, Anda perlu menyambungkan *PIR Motion Sensor* ke *ESP32 Board*. Ikuti gambar rangkaian berikut ini.
+   Untuk proyek ini, Anda perlu menyambungkan *PIR Motion Sensor* ke *ESP32 Board*. Ikuti gambar rangkaian berikut ini.
 ![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/07/ESP32-PIR-Motion-Sensor-Wiring-Diagram.png?resize=1024%2C649&quality=100&strip=all&ssl=1)
 7.  
