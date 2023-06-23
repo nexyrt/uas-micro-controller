@@ -16,6 +16,8 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
 - Ketika sensor mendeteksi gerakan, ESP32 CAM mengirim pesan peringatan ke akun telegram.
 - Kami akan diberitahu di akun telegram yang sudah terhubung ke bot setiap kali ada gerakan yang terdeteksi.
 
+Link Youtube : <a href="https://www.youtube.com/watch?v=niO22_4BkrA" target="_blank">Video UAS Micro Controller</a>
+
 ### Steps / Langkah-langkah
 1. **Membuat telegram Bot**
 2. **Dapatkan ID Pengguna Telegram Anda**
