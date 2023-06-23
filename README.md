@@ -5,6 +5,8 @@ Repositori GitHub ini berisi tugas ujian akhir untuk mata kuliah **Micro Control
 | Rizky Hamdani     | 2009106089    |
 | Indro Dwi Saputro | 2009106099    |
 
+Link Youtube : <a href="https://www.youtube.com/watch?v=niO22_4BkrA" target="_blank">Video UAS Micro Controller</a>
+
 ## Rangkaian dan Penjelasan
 
 ### Overview
@@ -15,8 +17,6 @@ Berikut adalah gambaran umum tentang bagaimana proyek ini bekerja :
 - ESP32 CAM terhubung ke *PIR Motion Sensor*.
 - Ketika sensor mendeteksi gerakan, ESP32 CAM mengirim pesan peringatan ke akun telegram.
 - Kami akan diberitahu di akun telegram yang sudah terhubung ke bot setiap kali ada gerakan yang terdeteksi.
-
-Link Youtube : <a href="https://www.youtube.com/watch?v=niO22_4BkrA" target="_blank">Video UAS Micro Controller</a>
 
 ### Steps / Langkah-langkah
 1. **Membuat telegram Bot**
